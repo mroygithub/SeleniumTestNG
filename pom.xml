@@ -28,7 +28,7 @@
                         <EnvironmentName>${EnvironmentName}}</EnvironmentName>
                     </systemPropertyVariables>
                     <suiteXmlFiles>
-                        <suiteXmlFile>${suiteXmlFile}</suiteXmlFile>
+                        <file>${suiteXmlFile}</file>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>

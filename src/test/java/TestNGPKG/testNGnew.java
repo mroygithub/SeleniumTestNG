@@ -33,6 +33,8 @@ public class testNGnew {
         Assert.assertTrue(driver.findElement(By.id("hplogo")).isDisplayed());
         driver.quit();
         System.out.println("Google Application Closed Successfully");
+
+        driver.findElement(By.xpath("//a[text()='AAA']")).click();
     }
 
 }
