@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-26T04:59:41Z" name="manual2Automation Test Suite" finished-at="2020-05-26T04:59:46Z" duration-ms="5485">
+    <groups>
+    </groups>
+    <test started-at="2020-05-26T04:59:41Z" name="manual2Automation1" finished-at="2020-05-26T04:59:46Z" duration-ms="5485">
+      <class name="TestNGPKG.testNGnew">
+        <test-method signature="testcase_1()[pri:0, instance:TestNGPKG.testNGnew@a2431d0]" started-at="2020-05-26T10:29:41Z" name="testcase_1" finished-at="2020-05-26T10:29:46Z" duration-ms="5474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_1 -->
+      </class> <!-- TestNGPKG.testNGnew -->
+    </test> <!-- manual2Automation1 -->
+  </suite> <!-- manual2Automation Test Suite -->
+</testng-results>
